@@ -13,8 +13,8 @@
   <a href="http://qiita.com/ipogy">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ipogy/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/ipogy">
-    <img height="20" src="https://badgen.org/img/zenn/ipogy/articles?style=plastic" />
+  <a href="https://zenn.dev/shanshan">
+    <img height="20" src="https://badgen.org/img/zenn/shanshan/articles?style=plastic" />
   </a>
 </p>
 <!--
