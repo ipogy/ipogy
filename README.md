@@ -17,6 +17,15 @@
     <img height="20" src="https://badgen.org/img/zenn/shanshan/articles?style=plastic" />
   </a>
 </p>
+
+   .....
+  .:::::.   (.) (.)
+ :  o o  :  /   \
+ :   ^   :
+  '-----'
+   |||||
+
+   
 <!--
 **ipogy/ipogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
