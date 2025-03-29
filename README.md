@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+<p align="left">
+  <a href="https://github.com/ipogy">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ipogy" />
+  </a>
+  <a href="https://github.com/ipogy">
+    <img height="20" src="https://img.shields.io/github/followers/ipogy?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/ipogy">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ipogy/posts.svg" />
+  </a>
+  <a href="http://qiita.com/ipogy">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ipogy/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/ipogy">
+    <img height="20" src="https://badgen.org/img/zenn/ipogy/articles?style=plastic" />
+  </a>
+</p>
 <!--
 **ipogy/ipogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
